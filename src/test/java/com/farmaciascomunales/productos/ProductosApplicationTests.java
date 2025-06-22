@@ -1,4 +1,4 @@
-package cl.farmaciascomunales.productos;
+package com.farmaciascomunales.productos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
